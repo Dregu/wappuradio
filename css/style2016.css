@@ -596,6 +596,7 @@ a:hover.tooltips {
 	margin-bottom: 32px;
 	margin-top: -32px;
 	box-sizing: border-box;
+	height: 100%;
 }
 
 
